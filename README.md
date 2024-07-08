@@ -3,7 +3,7 @@
 - 👀 I’m interested in Front-End development, eLearning, technology, remote working and their intersection;
 - 🌱 I’m currently learning to improve my development skills;
 - 💞️ I’m looking to collaborate on Front-End development projects;
-- 📫 How to reach me: message me here
+- 📫 How to reach me: message me on LinkedIn by clicking the link in the description
   
 - ⚡ Fun fact: There is no "new thing" that I cannot learn.
 
